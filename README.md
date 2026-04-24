@@ -30,6 +30,10 @@ Upload **any UI screenshot** — a web app, mobile app, SaaS dashboard, e-commer
 
 ---
 
+## 🎥 Demo
+
+![AI-UI-Assistant Demo](./AI-UI-Assistant-demo.gif)
+
 ## ✨ Features
 
 | Feature | Description |
