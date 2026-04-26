@@ -40,7 +40,6 @@ Upload **any UI screenshot** — a web app, mobile app, SaaS dashboard, e-commer
 |---|---|
 | ⚡ **Sub-Second Vision Analysis** | Gemini 2.5 Flash Vision analyzes uploaded screenshots in under 3 seconds |
 | 💬 **Conversational Chat Agent** | Multi-turn chat with full history context over the uploaded image |
-| 🎨 **FAANG-Level Dark UI** | Glassmorphism, gradients, smooth animations, and a premium Lucide icon set |
 | 🖼 **Annotated Canvas Viewer** | Color-coded bounding boxes drawn over detected UI elements with hover tooltips |
 | 🔍 **Smart Element Categorization** | Distinguishes between primary buttons, inputs, nav links, social buttons, and more |
 | 📥 **Download Annotated Image** | Export the analyzed screenshot with all annotation overlays |
